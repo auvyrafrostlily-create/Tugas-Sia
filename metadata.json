@@ -1,0 +1,5 @@
+{
+  "name": "SIMRS-AI Intelligent Hospital System",
+  "description": "An advanced Hospital Management System interface powered by Gemini API, featuring an orchestral agent routing tasks to specialized sub-agents for Patient Management, Scheduling, Administration, and Medical Info.",
+  "requestFramePermissions": []
+}
